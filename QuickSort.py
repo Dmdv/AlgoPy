@@ -1,6 +1,7 @@
 __author__ = 'dmitrijdackov'
 # http://hetland.org/coding/python/quicksort.html
 
+
 def partition(list, start, end):
     pivot = list[end]                          # Partition around the last value
     bottom = start-1                           # Start outside the area to be partitioned
