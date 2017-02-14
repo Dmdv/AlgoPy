@@ -1,7 +1,7 @@
 # To change this template, choose Tools | Templates
 # and open the template in the editor.
 
-__author__="Dyachkov"
+__author__="Dmdv"
 __date__ ="$09.02.2012 16:22:04$"
 
 n = input("n=")
